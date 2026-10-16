@@ -1,0 +1,1 @@
+"""Local sales ELT pipeline package."""

@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.coverage
+.env
+*.py[cod]
+data/raw/*.csv
+data/processed/*.csv
+data/processed/*.json
+!data/README.md
